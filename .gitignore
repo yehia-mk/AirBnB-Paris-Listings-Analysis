@@ -1,0 +1,9 @@
+﻿# Data files (too large for GitHub)
+Listings.csv
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
